@@ -259,7 +259,7 @@ ul.menu {
 	left: -10px;
 }
 
-.zagolovok-1{
+.zaholovok-1{
 	text-transform: uppercase;
 	color: #555;
 	border-bottom: solid 2px darkgoldenrod;
@@ -270,7 +270,7 @@ ul.menu {
 }
 
 
-h2.zagolovok-1{
+h2.zaholovok-1{
 	font-size: 20px;
 }
 
@@ -303,7 +303,7 @@ h2.zagolovok-1{
 		
 	}
 
-	.k-prava-1 .zagolovok-1{
+	.k-prava-1 .zaholovok-1{
 		margin-right: 0;
 	}
 }
