@@ -221,6 +221,19 @@ ul.menu {
 	max-width: 100%;
 }
 
+
+.post-kolonka .vremya{
+	font-size: 14px;
+	color: #666;
+	padding: 3px 0;
+}
+.post-kolonka .tekst{
+	font-size: 14px;
+	font-weight: bold;
+	color: #444;
+	padding: 5px 0;
+}
+
 .pad{
 	padding: 10px;
 }
@@ -259,4 +272,58 @@ ul.menu {
 
 h2.zagolovok-1{
 	font-size: 20px;
+}
+
+
+@media screen and (max-width: 900px) {
+
+	.post-kolonka{
+		width: 100%;
+
+	}
+
+	.k-liva-1{
+		width: 100%;
+	}
+	.k-prava-1{
+		width: 100%;
+	}
+
+	.blog-stroka .fix_left{
+		/*left: 0px;*/
+	}
+
+	.k-liva-1 .vidstup{
+		padding-left: 20px;
+		
+	}
+
+	.k-prava-1 .vidstup{
+		padding: 0 20px;
+		
+	}
+
+	.k-prava-1 .zagolovok-1{
+		margin-right: 0;
+	}
+}
+
+
+
+.shche_odne_menyu{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.shche_odne_menyu a{
+	display: block;
+	text-decoration: none;
+	color: #666;
+	border-bottom: solid 1px #ccc;
+	font-size: 14px;
+	padding: 10px 0;
+	font-weight: bold;
+}
+.shche_odne_menyu a:hover{
+	color: darkgoldenrod;
 }
