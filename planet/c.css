@@ -59,7 +59,7 @@ body{
 }
 
 
-.velyka-fotographiya{
+.velyka-fotohrafiya{
 	background-image: url('velyka-fotografiya.png');
 	height: 370px;
 	background-size: cover;
@@ -191,7 +191,7 @@ ul.menu {
 	}
 
 
-	.velyka-fotographiya .tekst-poseredyni{
+	.velyka-fotohrafiya .tekst-poseredyni{
 		/*padding-top: 0;*/
 		display: inline-block;
 		text-align: center;
